@@ -1,0 +1,6 @@
+@chandanbsd_blog_service_HostAddress = http://localhost:5140
+
+GET {{chandanbsd_blog_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
