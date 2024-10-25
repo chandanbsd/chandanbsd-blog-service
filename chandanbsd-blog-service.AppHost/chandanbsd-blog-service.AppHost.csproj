@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\chandanbsd-blog-service\chandanbsd-blog-service.csproj" />
+    <ProjectReference Include="..\chandanbsd-blog-service\CBSD.Blog.Service.Api.csproj" />
   </ItemGroup>
 
 </Project>
